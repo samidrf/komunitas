@@ -577,3 +577,22 @@ LinkedIn: [Munajat](https://www.linkedin.com/in/bymunajat/) <br/>
 Github: [https://github.com/bymunajat](https://github.com/bymunajat) 
 
 <hr/>
+
+### Dimas Rifqi
+
+Hallo, salam kenal semua 👋, kenalin nama saya Dimas Rifqi, seorang **Mahasiswa Ilmu Komputer** dari **Bogor**. Dikenal sebagai **@samid_drf** di beberapa sosial media. Sekarang lagi asik megang **Java & Python** sama tertarik masalah **cyber security**. <br/>
+ 
+```python
+  def main():
+    if mood == "coding":
+      print("⚡ Productivity = MAX!✨🖥️")
+    else:
+      print("🐞 Debugging mode = ON🤯")
+  main()
+```
+
+Sabii banget👌, kalo mau mutual friend sambil ngobrol santai: <br/>
+Github: [https://github.com/samidrf](https://github.com/samidrf) <br/>
+Instagram: [@samid_drf](https://instagram.com/samid_drf) <br/>
+LinkedIn: [Dimas Rifqi](https://www.linkedin.com/in/samidrf) <br/>
+<hr/>
